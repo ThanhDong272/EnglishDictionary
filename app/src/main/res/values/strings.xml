@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">English Dictionary</string>
+
+    <string name="navigation_drawer_name_project">English-English Dictionary</string>
+    <string name="navigation_drawer_text_from_team">From team 16</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    //Feedback
+    <string name="txt_enter_your_email">Enter your email</string>
+    <string name="txt_enter_your_subject">Enter your subject</string>
+    <string name="txt_what_could_we_do_to_improve">What could we do to improve ?</string>
+    <string name="txt_submit">Submit</string>
+
+    <string name="txt_words_search_display_in_dictionary">Words you searched most\nrecently show up here…</string>
+    <string name="txt_words_search_display_in_favorite">Words you added favorite\nrecently show up here…</string>
+
+    <string name="txt_settings_view_all_feedback">View All Feedback</string>
+    <string name="txt_settings_view_all_clear_history">Clear History</string>
+    <string name="txt_settings_view_all_about">About</string>
+
+    <string name="txt_about_version">1.1.3</string>
+    <string name="txt_dictionary">Dictionary</string>
+</resources>
